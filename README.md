@@ -44,5 +44,8 @@ Platform Tools Engineer - New College Graduate	https://nvidia.wd5.myworkdayjobs.
 
 
 Be NVIDIANs Today!
-	Click the Job Req# to check job details and apply, more jobs here： https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea529fe151e3323c&timeType=5509c0b5959810ac0029943377d47364&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78
-	Feel free to ping Kally Qiao | kallyq@nvidia.com to connect or refer your friends!
+
+Click the Job Req# to check job details and apply, more jobs here： https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite?locationHierarchy1=2fcb99c455831013ea529fe151e3323c&timeType=5509c0b5959810ac0029943377d47364&jobFamilyGroup=0c40f6bd1d8f10ae43ffaefd46dc7e78
+
+
+Feel free to ping Kally Qiao | kallyq@nvidia.com to connect or refer your friends!
